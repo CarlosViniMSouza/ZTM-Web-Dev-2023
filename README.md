@@ -39,7 +39,7 @@
     <li>Unlimited Updates</li>
 </ul>
 
-### HTML5 <i>(In Progress ...)</i>
+### HTML5 ✅
 
 <ul>
     <li>Build your First Website</li>
@@ -55,3 +55,20 @@
     <li>Q&A: Relative vs Absolute Path</li>
     <li>Course Check-In</li>
 </ul>
+
+### Advanced HTML5 <i>(In Progress ...)</i>
+
+<ul>
+    <li>HTML Forms</li>
+    <li>HTML Forms 2</li>
+    <li>Submitting A Form</li>
+    <li>HTML Tags 3</li>
+    <li>HTML vs HTML5</li>
+    <li> Copy a Website</li>
+    <li>HTML Challenge</li>
+    <li>HTML Lesson Files</li>
+    <li>Exercise: HTML Quiz</li>
+    <li>Optional Exercise: More HTML</li>
+    <li>Implement a New Life System</li>
+</ul>
+
