@@ -6,31 +6,35 @@
     <title>Register Forms</title>
 </head>
 <body>
-    <!--- Use GET, not POST-->
-    <form method="GET">
-        Your Name: <input required type="text" name="name"><br>
-        Your Email: <input required type="email" name="email"><br>
-        Your Password: <input required type="password" name="password" min="8"><br>
-        Your Birthday: <input required type="date" name="birthday"><br></br>
-        Your Gender: <br>
-        <input type="radio" name="gender" value="Male"> Male
-        <input type="radio" name="gender" value="Female"> Female
-        <input type="radio" name="gender" value="Other"> Other <br></br>
+    <div>
+        <header>
+            <h2> Register Page </h2>
+        </header>
+        <!--- Use GET, not POST-->
+        <form method="GET">
+            Your Name: <input required type="text" name="name"><br>
+            Your Email: <input required type="email" name="email"><br>
+            Your Password: <input required type="password" name="password" min="8"><br>
+            Your Birthday: <input required type="date" name="birthday"><br></br>
+            Your Gender: <br>
+            <input type="radio" name="gender" value="Male"> Male
+            <input type="radio" name="gender" value="Female"> Female
+            <input type="radio" name="gender" value="Other"> Other <br></br>
 
-        Pets: <br>
-        <input type="checkbox" name="dog"> Dog
-        <input type="checkbox" name="cat"> Cat <br></br>
+            Pets: <br>
+            <input type="checkbox" name="dog"> Dog
+            <input type="checkbox" name="cat"> Cat <br></br>
 
-        Cars Preferred: <br>
-        <select name="cars">
-            <option value="Chevrolet" name="chevrolet">Chevrolet</option>
-            <option value="Ford" name="ford">Ford</option>
-            <option value="Toyota" name="toyota">Toyota</option>
-        </select> <br></br>
-    </form>
-        
-        <input type="submit" value="Send">
-        <input type="reset" value="Delete">
-    </form>
+            Cars Preferred: <br>
+            <select name="cars">
+                <option value="Chevrolet" name="chevrolet">Chevrolet</option>
+                <option value="Ford" name="ford">Ford</option>
+                <option value="Toyota" name="toyota">Toyota</option>
+            </select> <br></br>
+
+            <input type="submit" value="Send">
+            <input type="reset" value="Delete">
+        </form>
+    </div>
 </body>
 </html>
