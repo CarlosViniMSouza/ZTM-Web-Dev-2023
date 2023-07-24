@@ -1,6 +1,6 @@
 git add -A
-git commit -m "Next Step: Copy a website"
+git commit -m "Next Step: I cant proceed due to member restriction"
 git push -u origin main
 git status
 
-# continue in: https://academy.zerotomastery.io/courses/697434/lectures/12682796
+# interromped ... 🥲
