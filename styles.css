@@ -1,4 +1,11 @@
 * {
     margin: 0 auto;
     font-family: "monospace";
+    text-align: center;
+    align-items: center;
+}
+
+.listGroup {
+    display: inline-block;
+    text-align: left;
 }
